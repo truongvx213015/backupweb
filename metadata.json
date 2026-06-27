@@ -1,0 +1,6 @@
+{
+  "name": "Bảng Điều Khiển Web Server",
+  "description": "Một trang web quản trị và cấu hình API Web Server giả lập đơn giản tích hợp AI tự động sinh dữ liệu JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

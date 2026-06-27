@@ -1,0 +1,48 @@
+{
+  "profile": {
+    "anniversaryDate": "2025-02-05",
+    "user1Name": "Anh Quân",
+    "user1Avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=256&auto=format&fit=crop",
+    "user2Name": "Khánh Vy",
+    "user2Avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=256&auto=format&fit=crop",
+    "password": "love",
+    "musicTrackUrl": "https://www.nhaccuatui.com/song/ESFq1iGH8zTQ",
+    "musicTrackName": "một đời"
+  },
+  "memories": [
+    {
+      "id": "mem-1",
+      "title": "Buổi hẹn hò đầu tiên",
+      "description": "Chúng mình đã ngồi nói chuyện suốt 3 tiếng đồng hồ ở quán cà phê nhỏ góc phố. Cảm giác ngượng ngùng nhưng vô cùng ấm áp.",
+      "photo": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?q=80&w=600&auto=format&fit=crop",
+      "date": "2025-02-14",
+      "location": "Quán cà phê Góc Phố, Hà Nội"
+    },
+    {
+      "id": "mem-2",
+      "title": "Chuyến du lịch biển đáng nhớ",
+      "description": "Cùng ngắm hoàng hôn buông xuống trên bãi cát. Cơn gió biển thổi nhẹ mát lạnh, tay trong tay hẹn ước đi cùng nhau thật xa.",
+      "photo": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=600&auto=format&fit=crop",
+      "date": "2025-05-20",
+      "location": "Bãi biển Mỹ Khê, Đà Nẵng"
+    }
+  ],
+  "letters": [
+    {
+      "id": "let-1",
+      "title": "Gửi Vy của anh...",
+      "content": "Vy ơi, cảm ơn em đã bước vào cuộc sống của anh, mang theo cả một thế giới rực rỡ sắc màu. Mỗi ngày bên cạnh em đều là một ngày đặc biệt. Hãy cùng anh đi qua thêm thật nhiều mùa yêu thương nữa nhé. Yêu em rất nhiều!",
+      "author": "Anh Quân",
+      "date": "2026-02-14",
+      "theme": "romantic-pink"
+    },
+    {
+      "id": "let-2",
+      "title": "Gửi anh Quân yêu thương",
+      "content": "Nhớ những ngày đầu tụi mình mới quen nhau, em đã bối rối biết bao. Cảm ơn sự kiên nhẫn, sự ấm áp và sự chu đáo mà anh luôn dành cho em. Cùng viết tiếp cuốn nhật ký ngọt ngào này mỗi ngày nha anh!",
+      "author": "Khánh Vy",
+      "date": "2026-03-01",
+      "theme": "warm-orange"
+    }
+  ]
+}
